@@ -1,3 +1,5 @@
+Forking this repo for self study purposes
+
 # A Tale Of Three Lists
 
 A sorta-sophisticated but still silly async events processing demo.
